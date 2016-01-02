@@ -1,0 +1,2 @@
+# sepial
+Python serial terminal
